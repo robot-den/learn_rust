@@ -3,7 +3,7 @@
 
 ### Development
 How to build and run binaries? Call from specific folder:  
-`rustc hello.rs -o ../binaries/hello && ../binaries/hello`
+`rustc x.rs -o ../binaries/x && ../binaries/x`
 
 #### Docker
 1) Build a playground image:  
